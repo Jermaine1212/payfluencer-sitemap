@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset data-filename="pages/Sitemap" data-linenumber="9" data-visual-selector-id="pages/Sitemap9" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Static Pages -->
+  <url data-filename="pages/Sitemap" data-linenumber="12" data-visual-selector-id="pages/Sitemap12">
+    <loc data-filename="pages/Sitemap" data-linenumber="13" data-visual-selector-id="pages/Sitemap13">https://payfluencer.app/</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="14" data-visual-selector-id="pages/Sitemap14">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="15" data-visual-selector-id="pages/Sitemap15">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="16" data-visual-selector-id="pages/Sitemap16">1.0</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="18" data-visual-selector-id="pages/Sitemap18">
+    <loc data-filename="pages/Sitemap" data-linenumber="19" data-visual-selector-id="pages/Sitemap19">https://payfluencer.app/Dashboard</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="20" data-visual-selector-id="pages/Sitemap20">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="21" data-visual-selector-id="pages/Sitemap21">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="22" data-visual-selector-id="pages/Sitemap22">0.9</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="24" data-visual-selector-id="pages/Sitemap24">
+    <loc data-filename="pages/Sitemap" data-linenumber="25" data-visual-selector-id="pages/Sitemap25">https://payfluencer.app/BrowseInfluencers</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="26" data-visual-selector-id="pages/Sitemap26">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="27" data-visual-selector-id="pages/Sitemap27">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="28" data-visual-selector-id="pages/Sitemap28">0.9</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="30" data-visual-selector-id="pages/Sitemap30">
+    <loc data-filename="pages/Sitemap" data-linenumber="31" data-visual-selector-id="pages/Sitemap31">https://payfluencer.app/Campaigns</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="32" data-visual-selector-id="pages/Sitemap32">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="33" data-visual-selector-id="pages/Sitemap33">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="34" data-visual-selector-id="pages/Sitemap34">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="36" data-visual-selector-id="pages/Sitemap36">
+    <loc data-filename="pages/Sitemap" data-linenumber="37" data-visual-selector-id="pages/Sitemap37">https://payfluencer.app/BlastCampaigns</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="38" data-visual-selector-id="pages/Sitemap38">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="39" data-visual-selector-id="pages/Sitemap39">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="40" data-visual-selector-id="pages/Sitemap40">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="42" data-visual-selector-id="pages/Sitemap42">
+    <loc data-filename="pages/Sitemap" data-linenumber="43" data-visual-selector-id="pages/Sitemap43">https://payfluencer.app/ProposalCampaigns</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="44" data-visual-selector-id="pages/Sitemap44">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="45" data-visual-selector-id="pages/Sitemap45">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="46" data-visual-selector-id="pages/Sitemap46">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="48" data-visual-selector-id="pages/Sitemap48">
+    <loc data-filename="pages/Sitemap" data-linenumber="49" data-visual-selector-id="pages/Sitemap49">https://payfluencer.app/Wallet</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="50" data-visual-selector-id="pages/Sitemap50">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="51" data-visual-selector-id="pages/Sitemap51">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="52" data-visual-selector-id="pages/Sitemap52">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="54" data-visual-selector-id="pages/Sitemap54">
+    <loc data-filename="pages/Sitemap" data-linenumber="55" data-visual-selector-id="pages/Sitemap55">https://payfluencer.app/DirectMessages</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="56" data-visual-selector-id="pages/Sitemap56">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="57" data-visual-selector-id="pages/Sitemap57">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="58" data-visual-selector-id="pages/Sitemap58">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="60" data-visual-selector-id="pages/Sitemap60">
+    <loc data-filename="pages/Sitemap" data-linenumber="61" data-visual-selector-id="pages/Sitemap61">https://payfluencer.app/Profile</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="62" data-visual-selector-id="pages/Sitemap62">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="63" data-visual-selector-id="pages/Sitemap63">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="64" data-visual-selector-id="pages/Sitemap64">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="66" data-visual-selector-id="pages/Sitemap66">
+    <loc data-filename="pages/Sitemap" data-linenumber="67" data-visual-selector-id="pages/Sitemap67">https://payfluencer.app/MyBrandPortal</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="68" data-visual-selector-id="pages/Sitemap68">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="69" data-visual-selector-id="pages/Sitemap69">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="70" data-visual-selector-id="pages/Sitemap70">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="72" data-visual-selector-id="pages/Sitemap72">
+    <loc data-filename="pages/Sitemap" data-linenumber="73" data-visual-selector-id="pages/Sitemap73">https://payfluencer.app/MyCreatorPortal</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="74" data-visual-selector-id="pages/Sitemap74">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="75" data-visual-selector-id="pages/Sitemap75">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="76" data-visual-selector-id="pages/Sitemap76">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="78" data-visual-selector-id="pages/Sitemap78">
+    <loc data-filename="pages/Sitemap" data-linenumber="79" data-visual-selector-id="pages/Sitemap79">https://payfluencer.app/HelpAndSupport</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="80" data-visual-selector-id="pages/Sitemap80">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="81" data-visual-selector-id="pages/Sitemap81">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="82" data-visual-selector-id="pages/Sitemap82">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="84" data-visual-selector-id="pages/Sitemap84">
+    <loc data-filename="pages/Sitemap" data-linenumber="85" data-visual-selector-id="pages/Sitemap85">https://payfluencer.app/Terms</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="86" data-visual-selector-id="pages/Sitemap86">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="87" data-visual-selector-id="pages/Sitemap87">yearly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="88" data-visual-selector-id="pages/Sitemap88">0.5</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="90" data-visual-selector-id="pages/Sitemap90">
+    <loc data-filename="pages/Sitemap" data-linenumber="91" data-visual-selector-id="pages/Sitemap91">https://payfluencer.app/Privacy</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="92" data-visual-selector-id="pages/Sitemap92">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="93" data-visual-selector-id="pages/Sitemap93">yearly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="94" data-visual-selector-id="pages/Sitemap94">0.5</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="96" data-visual-selector-id="pages/Sitemap96">
+    <loc data-filename="pages/Sitemap" data-linenumber="97" data-visual-selector-id="pages/Sitemap97">https://payfluencer.app/BrandAnalytics</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="98" data-visual-selector-id="pages/Sitemap98">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="99" data-visual-selector-id="pages/Sitemap99">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="100" data-visual-selector-id="pages/Sitemap100">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="102" data-visual-selector-id="pages/Sitemap102">
+    <loc data-filename="pages/Sitemap" data-linenumber="103" data-visual-selector-id="pages/Sitemap103">https://payfluencer.app/MyGigs</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="104" data-visual-selector-id="pages/Sitemap104">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="105" data-visual-selector-id="pages/Sitemap105">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="106" data-visual-selector-id="pages/Sitemap106">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="108" data-visual-selector-id="pages/Sitemap108">
+    <loc data-filename="pages/Sitemap" data-linenumber="109" data-visual-selector-id="pages/Sitemap109">https://payfluencer.app/ReviewSubmissions</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="110" data-visual-selector-id="pages/Sitemap110">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="111" data-visual-selector-id="pages/Sitemap111">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="112" data-visual-selector-id="pages/Sitemap112">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="114" data-visual-selector-id="pages/Sitemap114">
+    <loc data-filename="pages/Sitemap" data-linenumber="115" data-visual-selector-id="pages/Sitemap115">https://payfluencer.app/CampaignInvitesPage</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="116" data-visual-selector-id="pages/Sitemap116">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="117" data-visual-selector-id="pages/Sitemap117">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="118" data-visual-selector-id="pages/Sitemap118">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="120" data-visual-selector-id="pages/Sitemap120">
+    <loc data-filename="pages/Sitemap" data-linenumber="121" data-visual-selector-id="pages/Sitemap121">https://payfluencer.app/CreateOpenInviteCampaign</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="122" data-visual-selector-id="pages/Sitemap122">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="123" data-visual-selector-id="pages/Sitemap123">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="124" data-visual-selector-id="pages/Sitemap124">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="126" data-visual-selector-id="pages/Sitemap126">
+    <loc data-filename="pages/Sitemap" data-linenumber="127" data-visual-selector-id="pages/Sitemap127">https://payfluencer.app/ServicesEditor</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="128" data-visual-selector-id="pages/Sitemap128">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="129" data-visual-selector-id="pages/Sitemap129">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="130" data-visual-selector-id="pages/Sitemap130">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="132" data-visual-selector-id="pages/Sitemap132">
+    <loc data-filename="pages/Sitemap" data-linenumber="133" data-visual-selector-id="pages/Sitemap133">https://payfluencer.app/PortfolioManager</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="134" data-visual-selector-id="pages/Sitemap134">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="135" data-visual-selector-id="pages/Sitemap135">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="136" data-visual-selector-id="pages/Sitemap136">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="138" data-visual-selector-id="pages/Sitemap138">
+    <loc data-filename="pages/Sitemap" data-linenumber="139" data-visual-selector-id="pages/Sitemap139">https://payfluencer.app/Onboarding</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="140" data-visual-selector-id="pages/Sitemap140">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="141" data-visual-selector-id="pages/Sitemap141">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="142" data-visual-selector-id="pages/Sitemap142">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="144" data-visual-selector-id="pages/Sitemap144">
+    <loc data-filename="pages/Sitemap" data-linenumber="145" data-visual-selector-id="pages/Sitemap145">https://payfluencer.app/OnboardingSteps</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="146" data-visual-selector-id="pages/Sitemap146">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="147" data-visual-selector-id="pages/Sitemap147">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="148" data-visual-selector-id="pages/Sitemap148">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="150" data-visual-selector-id="pages/Sitemap150">
+    <loc data-filename="pages/Sitemap" data-linenumber="151" data-visual-selector-id="pages/Sitemap151">https://payfluencer.app/PendingApproval</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="152" data-visual-selector-id="pages/Sitemap152">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="153" data-visual-selector-id="pages/Sitemap153">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="154" data-visual-selector-id="pages/Sitemap154">0.5</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="156" data-visual-selector-id="pages/Sitemap156">
+    <loc data-filename="pages/Sitemap" data-linenumber="157" data-visual-selector-id="pages/Sitemap157">https://payfluencer.app/BrandPendingApproval</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="158" data-visual-selector-id="pages/Sitemap158">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="159" data-visual-selector-id="pages/Sitemap159">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="160" data-visual-selector-id="pages/Sitemap160">0.5</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="162" data-visual-selector-id="pages/Sitemap162">
+    <loc data-filename="pages/Sitemap" data-linenumber="163" data-visual-selector-id="pages/Sitemap163">https://payfluencer.app/Success</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="164" data-visual-selector-id="pages/Sitemap164">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="165" data-visual-selector-id="pages/Sitemap165">yearly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="166" data-visual-selector-id="pages/Sitemap166">0.4</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="168" data-visual-selector-id="pages/Sitemap168">
+    <loc data-filename="pages/Sitemap" data-linenumber="169" data-visual-selector-id="pages/Sitemap169">https://payfluencer.app/Cancel</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="170" data-visual-selector-id="pages/Sitemap170">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="171" data-visual-selector-id="pages/Sitemap171">yearly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="172" data-visual-selector-id="pages/Sitemap172">0.4</priority>
+  </url>
+
+  <!-- Admin Pages -->
+  <url data-filename="pages/Sitemap" data-linenumber="176" data-visual-selector-id="pages/Sitemap176">
+    <loc data-filename="pages/Sitemap" data-linenumber="177" data-visual-selector-id="pages/Sitemap177">https://payfluencer.app/AdminPanel</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="178" data-visual-selector-id="pages/Sitemap178">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="179" data-visual-selector-id="pages/Sitemap179">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="180" data-visual-selector-id="pages/Sitemap180">0.9</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="182" data-visual-selector-id="pages/Sitemap182">
+    <loc data-filename="pages/Sitemap" data-linenumber="183" data-visual-selector-id="pages/Sitemap183">https://payfluencer.app/UserManagement</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="184" data-visual-selector-id="pages/Sitemap184">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="185" data-visual-selector-id="pages/Sitemap185">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="186" data-visual-selector-id="pages/Sitemap186">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="188" data-visual-selector-id="pages/Sitemap188">
+    <loc data-filename="pages/Sitemap" data-linenumber="189" data-visual-selector-id="pages/Sitemap189">https://payfluencer.app/PlatformAnalytics</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="190" data-visual-selector-id="pages/Sitemap190">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="191" data-visual-selector-id="pages/Sitemap191">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="192" data-visual-selector-id="pages/Sitemap192">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="194" data-visual-selector-id="pages/Sitemap194">
+    <loc data-filename="pages/Sitemap" data-linenumber="195" data-visual-selector-id="pages/Sitemap195">https://payfluencer.app/ProfileApprovalQueue</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="196" data-visual-selector-id="pages/Sitemap196">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="197" data-visual-selector-id="pages/Sitemap197">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="198" data-visual-selector-id="pages/Sitemap198">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="200" data-visual-selector-id="pages/Sitemap200">
+    <loc data-filename="pages/Sitemap" data-linenumber="201" data-visual-selector-id="pages/Sitemap201">https://payfluencer.app/BrandApprovalQueue</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="202" data-visual-selector-id="pages/Sitemap202">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="203" data-visual-selector-id="pages/Sitemap203">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="204" data-visual-selector-id="pages/Sitemap204">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="206" data-visual-selector-id="pages/Sitemap206">
+    <loc data-filename="pages/Sitemap" data-linenumber="207" data-visual-selector-id="pages/Sitemap207">https://payfluencer.app/UpdateApprovalQueue</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="208" data-visual-selector-id="pages/Sitemap208">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="209" data-visual-selector-id="pages/Sitemap209">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="210" data-visual-selector-id="pages/Sitemap210">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="212" data-visual-selector-id="pages/Sitemap212">
+    <loc data-filename="pages/Sitemap" data-linenumber="213" data-visual-selector-id="pages/Sitemap213">https://payfluencer.app/AdminTransactions</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="214" data-visual-selector-id="pages/Sitemap214">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="215" data-visual-selector-id="pages/Sitemap215">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="216" data-visual-selector-id="pages/Sitemap216">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="218" data-visual-selector-id="pages/Sitemap218">
+    <loc data-filename="pages/Sitemap" data-linenumber="219" data-visual-selector-id="pages/Sitemap219">https://payfluencer.app/Payouts</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="220" data-visual-selector-id="pages/Sitemap220">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="221" data-visual-selector-id="pages/Sitemap221">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="222" data-visual-selector-id="pages/Sitemap222">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="224" data-visual-selector-id="pages/Sitemap224">
+    <loc data-filename="pages/Sitemap" data-linenumber="225" data-visual-selector-id="pages/Sitemap225">https://payfluencer.app/SupportTickets</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="226" data-visual-selector-id="pages/Sitemap226">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="227" data-visual-selector-id="pages/Sitemap227">daily</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="228" data-visual-selector-id="pages/Sitemap228">0.8</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="230" data-visual-selector-id="pages/Sitemap230">
+    <loc data-filename="pages/Sitemap" data-linenumber="231" data-visual-selector-id="pages/Sitemap231">https://payfluencer.app/SystemSettings</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="232" data-visual-selector-id="pages/Sitemap232">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="233" data-visual-selector-id="pages/Sitemap233">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="234" data-visual-selector-id="pages/Sitemap234">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="236" data-visual-selector-id="pages/Sitemap236">
+    <loc data-filename="pages/Sitemap" data-linenumber="237" data-visual-selector-id="pages/Sitemap237">https://payfluencer.app/Broadcast</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="238" data-visual-selector-id="pages/Sitemap238">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="239" data-visual-selector-id="pages/Sitemap239">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="240" data-visual-selector-id="pages/Sitemap240">0.7</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="242" data-visual-selector-id="pages/Sitemap242">
+    <loc data-filename="pages/Sitemap" data-linenumber="243" data-visual-selector-id="pages/Sitemap243">https://payfluencer.app/AdminSetup</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="244" data-visual-selector-id="pages/Sitemap244">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="245" data-visual-selector-id="pages/Sitemap245">monthly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="246" data-visual-selector-id="pages/Sitemap246">0.6</priority>
+  </url>
+
+  <!-- Public Profile Pages (Examples - these would be dynamically generated) -->
+  <!-- 
+  <url data-filename="pages/Sitemap" data-linenumber="251" data-visual-selector-id="pages/Sitemap251">
+    <loc data-filename="pages/Sitemap" data-linenumber="252" data-visual-selector-id="pages/Sitemap252">https://payfluencer.app/InfluencerProfile?id=INFLUENCER_ID_1</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="253" data-visual-selector-id="pages/Sitemap253">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="254" data-visual-selector-id="pages/Sitemap254">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="255" data-visual-selector-id="pages/Sitemap255">0.6</priority>
+  </url>
+  <url data-filename="pages/Sitemap" data-linenumber="257" data-visual-selector-id="pages/Sitemap257">
+    <loc data-filename="pages/Sitemap" data-linenumber="258" data-visual-selector-id="pages/Sitemap258">https://payfluencer.app/BrandPublicProfile?id=BRAND_ID_1</loc>
+    <lastmod data-filename="pages/Sitemap" data-linenumber="259" data-visual-selector-id="pages/Sitemap259">2024-12-19T10:00:00+00:00</lastmod>
+    <changefreq data-filename="pages/Sitemap" data-linenumber="260" data-visual-selector-id="pages/Sitemap260">weekly</changefreq>
+    <priority data-filename="pages/Sitemap" data-linenumber="261" data-visual-selector-id="pages/Sitemap261">0.6</priority>
+  </url>
+  -->
+
+</urlset>
